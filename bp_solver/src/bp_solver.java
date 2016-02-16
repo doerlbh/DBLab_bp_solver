@@ -1,3 +1,6 @@
+// Copyright: Baihan Lin, Baker Lab, doerlbh@gmail.com
+// Date: Nov 2015
+
 import java.io.*;     // for File, FileNotFoundException
 import java.util.*;   // for Scanner, List, Set, Collections
 
